@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA Compatiable" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>
+        Book Shop
+    </title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"/>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+      <!-- navbar section start from here --> 
+
+    <section id="header">
+        <a href="home.html"><img src="img/logo.png" class="logo" alt="Bookshop"></a>
+
+        <div>
+            <ul id="navbar">
+                <li><a class="act" href="home.html">Home</a></li>
+                <li><a href="cart.html"><i class=""></i>Cart</a></li>
+                <li><a href="signup.html"><i class=""></i>Read Online</a></li>
+                <li><a href="login.html"><i class=""></i>Login</a></li>
+
+                <li id="lg-bag"><a href="cart.html"><i class="far fa-shopping-bag"></i></a></li>
+                <a href="#" id="close"><i class="far fa-times"></i></a>
+            </ul>
+        </div>
+
+        <div id="mobile">
+            <a href="cart.html"><i class="far fa-shopping-bag"></i></a>
+            <i id="bar" class="fas fa-outdent"></i>
+        </div>
+
+    </section>
+
+    <!--heron section -->
+
+    <section id="heron">
+        <h4>Available now </h4>
+        <h2>Buy second hand books</h2>
+        <h1>All type of books are available</h1>
+        <p> Save more with coupons up to 60%</p>
+        <button> Buy now</button>
+    </section>
+
+    <!-- feature section start from here-->
+
+    <section id="feature" class="section-p1">
+        <div class="feature-box">
+            <img src="img/feature/atomichabits.jpg" alt="">
+            <h6>Best seller Books</h6>
+        </div>
+        <div class="feature-box" class="section-p1">
+            <img src="img/feature/daretolead.jpg" alt="">
+            <h6>Science fiction Books</h6>
+        </div>
+        <div class="feature-box" class="section-p1">
+            <img src="img/feature/ThinkAgain.jpg" alt="">
+            <h6>Romantic Books</h6>
+        </div>
+        <div class="feature-box" class="section-p1">
+            <img src="img/feature/thehobit.png" alt="">
+            <h6>Religious Books</h6>
+        </div>
+        <div class="feature-box" class="section-p1">
+            <img src="img/feature/ThinkAgain.jpg" alt="">
+            <h6>Literature Books</h6>
+        </div>
+        <div class="feature-box" class="section-p1">
+            <img src="img/feature/ThinkAgain.jpg" alt="">
+            <h6>Others Books</h6>
+        </div>
+
+    </section>
+
+    <!-- feature section ends here -->
+
+    <!-- featured books section start here -->
+
+    <section id="products" class="section-p1">
+        <h2>Featured Books</h2>
+        <h3>New collection of old books</h3>
+        <div class="pro-container">
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="">
+                <div class="description">
+                    <span>Science fiction</span>
+                    <h5>The brief history of time</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="">
+                <div class="description">
+                    <span>Science fiction</span>
+                    <h5>The brief history of time</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="">
+                <div class="description">
+                    <span>Science fiction</span>
+                    <h5>The brief history of time</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="">
+                <div class="description">
+                    <span>Religious Books</span>
+                    <h5>The brief history of Religion</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="">
+                <div class="description">
+                    <span>Literature</span>
+                    <h5>The brief history of time</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="">
+                <div class="description">
+                    <span>Rework</span>
+                    <h5>The brief history of time</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="">
+                <div class="description">
+                    <span>Someone like you</span>
+                    <h5>Romance series</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="">
+                <div class="description">
+                    <span>Harry Potter</span>
+                    <h5>The brief history of time</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="">
+                <div class="description">
+                    <span>The Alchemist</span>
+                    <h5>Paolo Coelho</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="">
+                <div class="description">
+                    <span>The Grand Design</span>
+                    <h5>Stiphen Hawkins</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="">
+                <div class="description">
+                    <span>Science fiction</span>
+                    <h5>The brief history of time</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/indiBooks/pic2.jpeg" alt="The little bookshop on the seine">
+                <div class="description">
+                    <span>Science fiction</span>
+                    <h5>The brief history of time</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>50 RMB</h4>
+                </div>
+                <a href="#"><i class="fal fa-shopping-cart cart"></i></a>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- featured books section ends here -->
+
+    <!-- banner section starts here -->
+
+    <section id="banner" class="section-m1">
+        <h4>Online readable books</h4>
+        <h2>Anyone can read books now at online</h2>
+        <button class="normal">Read now online</button>
+    </section>
+
+    <!-- banner section ends here -->
+
+    <!-- banner extension section starts here -->
+
+    <section id="extra-banner" class="section-p1">
+        <div class="banner-box">
+            <h4>Available now</h4>
+            <h2>Most wanted books</h2>
+            <span>On sale</span>
+            <button class="normal">Read more</button>
+        </div>
+
+        <div class="banner-box reno">
+            <h4>Available now</h4>
+            <h2>Most wanted books</h2>
+            <span>On sale</span>
+            <button class="normal">Read online</button>
+        </div>
+    </section>
+
+    <!-- banner extension section ends here -->
+
+    <!-- newslatter section starts here -->
+
+    <section id="newslatter" class="section-p1">
+        <div class="newstext">
+            <h2>Sign up to read online</h2>
+            <p>Get E-mail updates about our latest shop and special offers</p>
+        </div>
+
+        <div class="form">
+            <input type="text" placeholder="Your e-mail address">
+            <button class="normal">Sign up</button>
+        </div>
+    </section>
+
+    <!-- newslatter section ends here -->
+
+    <!-- footer section starts from here -->
+
+    <footer class="section-p1">
+        <div class="column">
+            <img class="logo" src="img/logo.png" alt="Bookshop">
+            <h4>Contact</h4>
+            <p><strong>Address:</strong>Industrial Property Offices <br> Chama Nanjie, Xichengqu 100055 Beijing </p>
+            <p><strong>Phone:</strong>(86 10) 63 21 95 91</p>
+            <p><strong>Hours:</strong>10:00am - 18:00pm, Mon-Sat</p>
+        </div>
+
+        <div class="follow">
+            <h4>Follow us</h4>
+            <div class="icon">
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-youtube"></i>
+            </div>
+        </div>
+
+        <div class="column">
+            <h4>About</h4>
+            <a href="#">Delivery information</a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms & Conditions</a>
+            <a href="#">Contact Us</a>
+        </div>
+
+        <div class="column install">
+            <h4>Get the app from online</h4>
+            <p>From App Store or Google Play Store</p>
+            <div class="row">
+                <img src="img/pay/app.jpg" alt="app link">
+                <img src="img/pay/play.jpg" alt="playstore link">
+            </div>
+            <p>Payment gateways</p>
+            <img src="img/paymentgateway.jpg" alt="payment gateways">
+        </div>
+
+        <div class="copyright">
+            <p>Terms | Privacy | 2023 copyright reserved | bookshop.com.github.io</p>
+        </div>
+    </footer>
+
+    <!-- footer section ends here -->
+
+
+
+  <script src="script.js"> </script>
+
+</body>
+
+</html>
